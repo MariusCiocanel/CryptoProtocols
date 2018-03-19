@@ -1,0 +1,22 @@
+{
+  "name": "CryptoProtocols",
+  "version": "0.1.0",
+  "summary": "A short description of CryptoProtocols.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Marius Ciocanel/CryptoProtocols",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Marius Ciocanel": "mariusciocanel@shotscope.com"
+  },
+  "source": {
+    "git": "https://github.com/Marius Ciocanel/CryptoProtocols.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CryptoProtocols/Classes/**/*"
+}

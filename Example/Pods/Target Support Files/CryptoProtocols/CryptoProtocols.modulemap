@@ -1,0 +1,6 @@
+framework module CryptoProtocols {
+  umbrella header "CryptoProtocols-umbrella.h"
+
+  export *
+  module * { export * }
+}

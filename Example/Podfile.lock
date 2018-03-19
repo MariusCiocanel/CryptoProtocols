@@ -1,0 +1,16 @@
+PODS:
+  - CryptoProtocols (0.1.0)
+
+DEPENDENCIES:
+  - CryptoProtocols (from `../`)
+
+EXTERNAL SOURCES:
+  CryptoProtocols:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CryptoProtocols: 1e98b8c3604a1ee69039433c222574fd707a393a
+
+PODFILE CHECKSUM: 749ddee7dbfa4856cb01825696b43edf73ecd9d5
+
+COCOAPODS: 1.4.0
